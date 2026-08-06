@@ -72,8 +72,8 @@ header = \
 	  <a href="https://www.linkedin.com/in/samueljdunham/">
 	    <img src="Images/LinkedIn.png" class="rounded-corners"
 	     style="width:1.2em;height=1.2em"/></a>&nbsp;
-	  <a href="https://twitter.com/AstroDunham">
-	    <img src="Images/Twitter.png" class="rounded-corners"
+	  <a href="https://bsky.app/profile/astrodunham.bsky.social">
+	    <img src="Images/Bluesky.png" class="rounded-corners"
 	     style="width:1.2em;height=1.2em"/></a>&nbsp;
 	</li>
       </div>
