@@ -72,7 +72,7 @@ header = \
 	  <a href="https://www.linkedin.com/in/samueljdunham/">
 	    <img src="images/LinkedIn.png" class="rounded-corners"
 	     style="width:1.2em;height=1.2em"/></a>&nbsp;
-	  <a href="https://bsky.app/profile/astrodunham.bsky.social">
+	  <a href="https://bsky.app/profile/samueljdunham.bsky.social">
 	    <img src="images/Bluesky.png" class="rounded-corners"
 	     style="width:1.2em;height=1.2em"/></a>&nbsp;
 	</li>
