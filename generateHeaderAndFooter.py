@@ -41,7 +41,7 @@ header = \
     <meta name="robots" content="nofollow"/>
 
     <title>Samuel J. Dunham</title>
-    <link rel="icon" href="Images/Initials.png"/>
+    <link rel="icon" href="images/Initials.png"/>
 
     <link rel="stylesheet" href="style.css"/>
 
@@ -67,13 +67,13 @@ header = \
       <div class="ExternalLinks">
 	<li>
 	  <a href="https://github.com/dunhamsj/">
-	    <img src="Images/GitHub.png" class="rounded-corners"
+	    <img src="images/GitHub.png" class="rounded-corners"
 	     style="width:1.2em;height=1.2em"/></a>&nbsp;
 	  <a href="https://www.linkedin.com/in/samueljdunham/">
-	    <img src="Images/LinkedIn.png" class="rounded-corners"
+	    <img src="images/LinkedIn.png" class="rounded-corners"
 	     style="width:1.2em;height=1.2em"/></a>&nbsp;
 	  <a href="https://bsky.app/profile/astrodunham.bsky.social">
-	    <img src="Images/Bluesky.png" class="rounded-corners"
+	    <img src="images/Bluesky.png" class="rounded-corners"
 	     style="width:1.2em;height=1.2em"/></a>&nbsp;
 	</li>
       </div>
@@ -88,7 +88,7 @@ footer = \
 
     <div class="footer">
       <div class="Updated">Last updated: August 5, 2026</div>
-      <img class="Logo" src="Images/Initials.png"></img>
+      <img class="Logo" src="images/Initials.png"></img>
       <div class="FigAcknowledgements">
       Icons from iconfinder.com | Figures from APOD</div>
     </div>
